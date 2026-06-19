@@ -1,0 +1,1 @@
+Git es una herramienta importante porque permite llevar un registro organizado de todos los cambios que se realizan en un proyecto de softaware. Gracias a esto los desarrolladores pueden saber que modificaciones se hicieron, cuando se realizaron y quien las hizo. Tambien facilita corregir errores y recuperar versiones anteriores del proyecto si algo sale mal.
