@@ -1,0 +1,12 @@
+Al enviar un reporte mediante la ruta POST, la información se guarda en el array llamado reportes. Cuando se consulta la ruta GET /reportes, el servidor devuelve una lista con todos los reportes registrados hasta ese momento en formato JSON.
+
+Ejemplo de respuesta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
